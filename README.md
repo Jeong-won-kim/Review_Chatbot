@@ -29,7 +29,7 @@
 ## 아키텍쳐  
 ### 한국어 PLM 모델을 탑재한 챗봇 구조
 
-![Architecture](images/Architecture.png)
+![Architecture](images/Architecture.PNG)
 
 - 구글 플레이스토어와 네이버 블로그에서 12개의 부동산 서비스에 대한 고객의 VoC 수집
 - 수집된 VoC를 SQLite3에 저장하고 두 언어모델에 전달
