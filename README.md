@@ -59,7 +59,7 @@
 ### 4. KB-ABLERT
 #### 고객의 문의(TEXT)를 4가지 카테고리로 분류하는 Task 수행 <br>
 
-![kbalbert](images/train_dataset.PNG)
+![kbalbert](images/kbalbert.PNG)
 
 ### 5. KoGPT-2
 #### 고객의 문의(TEXT)에 대한 자연스러운 답변을 생성하는  Task 수행 <br>
