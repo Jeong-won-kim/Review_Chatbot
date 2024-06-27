@@ -12,6 +12,9 @@
 ## 프로젝트 기간 
 2021.09.03 ~ 2022.10.26
 
+## 개발 인원
+총 2명 (AI 개발자 1명, 백엔드 개발자 1명)
+
 ## 사용기술
 - Language : Python 3.8, Pytorch, Mysql <br>
 - DB : SQLite3 <br>
