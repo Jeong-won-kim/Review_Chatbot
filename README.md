@@ -16,7 +16,8 @@
 총 2명 (AI 개발자 1명, 백엔드 개발자 1명)
 
 ## 사용기술
-- Language : Python 3.8, Pytorch, Mysql <br>
+- Language : Python 3.8, Mysql <br>
+- Deep Learning Framework : Pytorch <br>
 - DB : SQLite3 <br>
 - Infra : Google Cloud Platform <br>
 - API : Telegram Bot API
